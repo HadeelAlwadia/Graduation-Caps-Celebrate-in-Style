@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+input {
+  outline: none;
+}
+
+#root {
+  color: white;
+  display: flex;
+}
+
+.countainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+main {
+  width: 100%;
+  background-color: #02081b;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+.theme-coun{
+  position: absolute;
+  right: 20px;
+}
+
+.theme-coun-light {
+  color: #000;
+
+}
+
+.theme-coun-dark {
+  color: white;
+
+}

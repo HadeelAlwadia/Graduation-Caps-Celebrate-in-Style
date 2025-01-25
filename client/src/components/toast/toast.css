@@ -1,0 +1,41 @@
+.toast{
+  padding:10px 25px;
+  display: flex;
+  justify-content: space-between;
+  background-color: rgba(0, 0, 0, 0.9);
+  position: absolute;
+  top:50px;
+  width: 200px;
+  align-items: center;
+  top:0;
+  right: 0;
+
+  
+
+}
+.toast-top-right{
+
+}
+.toast-top-left{
+
+}
+.toast-bottom-left{
+
+}
+.toast-bottom-right{
+
+}
+.toast--success{
+  border-bottom: 1px solid green;
+}
+.toast--failer{
+  border-bottom: 1px solid red;
+
+}
+.toast-warning{
+  border-bottom: 1px solid orangered;
+
+}
+.toast-close-btn{
+  background-color: inherit;
+}

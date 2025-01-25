@@ -1,0 +1,28 @@
+.user-countainer{
+    width: 80%;
+    height: 80%;
+    border-radius: 15px;
+    box-shadow: rgb(45, 46, 46) 0px 19px 29px 0px;
+     padding: 30px 15px;
+   
+}
+.user-countainer  input{
+    display: block;
+    margin: auto;
+}
+.user-name{
+    text-align: center;
+}
+.user-avater{
+    border-radius: 50%;
+    width: 150px ;
+    height: 150px;
+    display: block;
+    margin: auto;
+}
+.add-req-btn{
+    border-radius: 15px;
+    background-color:green;
+    color:white;
+    
+}
